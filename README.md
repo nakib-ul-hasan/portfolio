@@ -26,6 +26,12 @@
 - Enhanced hands-on experience in statistical methods and techniques including logistic regression, linear regression, principal component analysis, etc.
 - Used data analytic tools such as R, SAS, Python, or SPSS to manipulate and statistically analyze big data sets in order to spot patterns, connections, and statistical significance.
 
+**Data Analyst @ Louisiana State University (_Aug 2021 - Sep 2022_)**
+- Conduct meetings with the clients who have problems with their statistical analysis and provide step-by-step guidelines to set up and solve their statistical problems.
+- Work with clients, statistical programmers, and various statisticians to plan, and execute clinical research besides evaluating and reporting the clinical study report data.
+- Provide consultations to clients in sample size/power calculation, statistical analysis plan, and SAS or R programming.
+- For manipulation and statistical analysis of large data sets used statistical tools such as SAS or R to identify trends, relationships, and statistical significance.
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
