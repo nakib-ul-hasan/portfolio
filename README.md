@@ -3,9 +3,10 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Textiles, Apparel Design, and Marchandising | Louisiana State University, USA (_August 2022_)								       		
+- M.S., Applied Statistics	| Louisiana State University, USA (_July 2022_)
+- M.S., Textile Engineering	| Bangladesh University of Textiles, Bangladesh (_December 2019_)	 		        		
+- M.S., Textile Engineering	| Dhaka University of Engineering & Technology, Bangladesh (_September 2012_)	 		 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
