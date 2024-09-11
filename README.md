@@ -9,13 +9,22 @@
 - M.S., Textile Engineering	| Dhaka University of Engineering & Technology, Bangladesh (_September 2012_)	 		 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Business Analyst @ Bristol Myers Squibb (_Oct 2023 - Present_)**
+- Requirement Gathering: Collaborating with stakeholders to document business needs and translate them into technical specifications.
+- Process Improvement: Identifying and recommending enhancements to business processes.
+- Project Support: Assisting in project planning and execution to ensure timely and within-budget delivery.
+- Data Analysis: Performing data analysis and generating reports to support business decisions.
+- Stakeholder Communication: Acting as a liaison between business units and IT teams, facilitating meetings and presentations.
+- Documentation and Training: Creating comprehensive documentation and providing training to end-users.
+- Quality Assurance: Participating in testing activities to ensure solutions meet requirements and quality standards.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Analyst @ University of Miami (_Oct 2022 - Aug 2023_)**
+- Worked with Research on the Epidemiology of SARS-CoV-2 in Essential Response Personnel study funded by the Centers for Disease Control and Prevention (CDC) at the University of Miami.
+- Worked on a quick-thinking collaborative research team to organize, analyze, and evaluate data and produce timely research output.
+- Reviewed and synthesized articles for publications delivered as research papers and presentations at international conferences and journal articles.
+- Acquired the broadest range of experience starting from research design, data collection, data cleaning, and analysis to investigate topics, find solutions to challenges, and forecast trends.
+- Enhanced hands-on experience in statistical methods and techniques including logistic regression, linear regression, principal component analysis, etc.
+- Used data analytic tools such as R, SAS, Python, or SPSS to manipulate and statistically analyze big data sets in order to spot patterns, connections, and statistical significance.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
