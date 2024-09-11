@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS
 
 ## Education
 - Ph.D., Textiles, Apparel Design, and Marchandising | Louisiana State University, USA (_August 2022_)								       		
